@@ -1,2 +1,2 @@
-# Pandas Excel Manipulation
- Used to edit/reformat xlsx documents. Could easily be implemented to do many other things.
+# Reformatting XLSX documents with PANDAS
+ Script to spell check and fix errors in formatting on a given XLSX document
